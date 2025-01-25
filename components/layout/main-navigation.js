@@ -17,7 +17,7 @@ function MainNavigation() {
             <Link href="/posts">Posts</Link>
           </li>
           <li>
-            <Link href="/contact"></Link>
+            <Link href="/contact">Contact</Link>
           </li>
         </ul>
       </nav>
